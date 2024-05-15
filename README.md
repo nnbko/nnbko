@@ -61,7 +61,7 @@
   </div>
   <div>
 <a href="https://github.com/nnbko/russian-travel">
-      <img src="" title="russian-travel" alt="russian-travel" width="230" height="170">
+      <img src="https://github.com/nnbko/russian-travel/blob/main/images/photo_2024-05-15_17-02-38.jpg" title="russian-travel" alt="russian-travel" width="230" height="170">
     </a>&nbsp;
 <a href="https://github.com/nnbko/how-to-learn">
       <img src="https://github.com/nnbko/russian-travel/blob/main/images/photo_2024-05-15_17-02-38.jpg" title="how-to-learn" alt="how-to-learn" width="230" height="170">
